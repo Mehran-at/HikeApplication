@@ -1,6 +1,6 @@
 //Check if user pressed ENTER,
 import java.io.IOException;
-public class EnterKeyChecker {
+public class EnterUserKeyChecker {
     public void pressEnter() {
         int count = 10;
         System.out.println("Please press \"Enter\" to proceed");
