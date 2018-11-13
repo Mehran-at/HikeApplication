@@ -1,5 +1,3 @@
-// CHANGE COMMIT
-// CHANGE COMMIT 2
 //Check if user pressed ENTER,
 import java.io.IOException;
 public class EnterUserKeyChecker {
