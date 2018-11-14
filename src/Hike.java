@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-//text
+//
 public class Hike {
     private List<Hiker> hikers = new ArrayList<>();
     public void signUp() {
